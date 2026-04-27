@@ -1,5 +1,9 @@
 # DATASCI 350 Quiz 03 — Local LLMs and Cloud Data Analysis
 
+## Portfolio framing
+
+This is a polished coursework / reproducible learning artifact, not a commercial product. I keep it public because it demonstrates local LLM setup, command documentation, and Python analysis workflow.
+
 A data-science computing project covering two workflows: customizing a local LLM with Ollama and running a Python traffic-analysis script in a cloud-computing context.
 
 ## What it demonstrates
